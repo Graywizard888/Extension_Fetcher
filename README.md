@@ -44,6 +44,8 @@ clone repo:-
 
 git clone https://github.com/Graywizard888/Extension_Fetcher.git
 
+chmod +x Extension_Fetcher.py
+
 pkg install python
 
 pip install requests
