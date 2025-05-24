@@ -23,7 +23,7 @@ def main():
     
     
     ext_dir = os.path.join(
-        os.path.expanduser("~"),  # Start from home directory
+        os.path.expanduser("~"),  
         "storage",  
         "shared",  
         "Extension"  
