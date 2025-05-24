@@ -36,9 +36,11 @@ Works even if the directory already exists
 
 How to Use :-
 
-clone repo:-
+
 
 termux-setup-storage
+
+clone repo:-
 
 git clone https://github.com/Graywizard888/Extension_Fetcher.git
 
