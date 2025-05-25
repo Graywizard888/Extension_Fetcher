@@ -1,7 +1,7 @@
 # Extension_Fetcher
 Tries to download extension by user specified extension id on Edge add-on store (for now)
 
-
+____________________________________
 
 Detail :-
 
@@ -28,6 +28,7 @@ Works even if the directory already exists
 
 
 
+____________________________________
 
 
 
